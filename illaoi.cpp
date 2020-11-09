@@ -110,7 +110,7 @@ int main(){
 	printTower();
 	int n = illaoi(size, 0, 2, 1);
 	
-	printf("%d\n", n);
+	printf("Total number of block movement: %d\n", n);
 	
 	return 0;
 }
